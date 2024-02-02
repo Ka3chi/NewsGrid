@@ -23,7 +23,7 @@ const Header = () => {
                 <a href='#' className='font-bold p-2.5'>Homes</a>
             </div>
             <div>
-                <a href='#' className='font-bold p-2.5'>Abouts</a>
+                <a href='#' className='font-bold p-2.5'>Aboutsss</a>
             </div>
         </div>
     </div>
